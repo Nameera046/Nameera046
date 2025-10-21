@@ -17,7 +17,7 @@ Student👩🏼‍🎓 | Information Technology📖 | Coder 👩🏼‍💻
 ### 🔝 Top Repositories
 [SKILLRACK](https://github.com/Nameera046/SKILLRACK) - C and  Java Programs  
 [ONLINE VEHICLE MANAGEMENT](https://github.com/Nameera046/Online-Vehicle-Rental-System.git) - This is My College Project where we can rent the Vehices in Online to reduce the amnual process.
-[INTERNSHIP PROJECTS]([https://github.com/Nameera046/Prodigy_Internship]) - Completed One month Internship in Prodigy Infotech and gainded the Knowledge in HTML, CSS and JAVASCRIPT.  
+[INTERNSHIP PROJECTS](https://github.com/Nameera046/Prodigy_Internship) - Completed One month Internship in Prodigy Infotech and gainded the Knowledge in HTML, CSS and JAVASCRIPT.  
 
 
 ### 📊 GitHub Stats
