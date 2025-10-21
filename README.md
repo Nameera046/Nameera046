@@ -9,13 +9,15 @@ Student👩🏼‍🎓 | Information Technology📖 | Coder 👩🏼‍💻
 - 💬 Ask me about C, C++, Java, React.js.
 - 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/hajar-nameera-s-314731297])
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Passionate about problem solving and learning Origami
+- ⚡ Fun fact: Passionate about problem solving
+- 🎨 Hobbies - Interested in Drawing and Visualize the things in the mind Using Paper and Pen.
+- 🚵🏼 Sports - I love hitting the court for basketball!🏀
 
 
 ### 🔝 Top Repositories
-[SKILLRACK](https://github.com/Nameera046/SKILLRACK) - 10+ C and  Java Programs  
+[SKILLRACK](https://github.com/Nameera046/SKILLRACK) - C and  Java Programs  
 [ONLINE VEHICLE MANAGEMENT](https://github.com/Nameera046/Online-Vehicle-Rental-System.git) - This is My College Project where we can rent the Vehices in Online to reduce the amnual process.
-[INTERNSHIP PROJECTS](https://github.com/Nameera046/SKILLRACK) - 10+ C and  Java Programs  
+[INTERNSHIP PROJECTS]((https://github.com/Nameera046/Prodigy_Internship)) - Completed One month Internship in Prodigy Infotech and gainded the Knowledge in HTML, CSS and JAVASCRIPT.  
 
 
 ### 📊 GitHub Stats
