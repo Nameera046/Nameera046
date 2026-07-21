@@ -55,22 +55,22 @@
 
 | Project / Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🎓 **[Alumni Portal](https://github.com/Nameera046)** | Live portal connecting students and alumni for networking, career updates, and mentorship. | `Spring Boot` `React.js` `MySQL` | 🟢 **LIVE** |
-| 🔐 **[JWT Security Tool](https://github.com/Nameera046)** | Security utility implementing JSON Web Tokens (JWT) for secure user authentication & authorization. | `Java` `Spring Security` `JWT` | 🛠️ Completed |
-| 📝 **[Meeting Flow](https://github.com/Nameera046)** | Smart meeting management platform to generate minutes, track action items, and streamline workflows. | `React.js` `JavaScript` `Tailwind` | 🛠️ Completed |
+| 🎓 **[Alumni Portal](https://github.com/Nameera046/Alumni-Portal)** | Live portal connecting students and alumni for networking, career updates, and mentorship. | `Spring Boot` `React.js` `MySQL` | 🟢 **LIVE** |
+| 🔐 **[JWT Security Tool](https://github.com/Nameera046/JWT-Security-Tool)** | Security utility implementing JSON Web Tokens (JWT) for secure user authentication & authorization. | `Java` `Spring Security` `JWT` | 🛠️ Completed |
+| 📝 **[Meeting Flow](https://github.com/Nameera046/Meeting-Flow)** | Smart meeting management platform to generate minutes, track action items, and streamline workflows. | `React.js` `JavaScript` `Tailwind` | 🛠️ Completed |
 | 🚘 **[Online Vehicle Management](https://github.com/Nameera046/ONLINE-VEHICLE-MANAGEMENT)** | College project to digitize vehicle rentals online, eliminating manual processes. | `Spring Boot` `Java` `React.js` | 🛠️ Completed |
-| 💼 **[Elevated LAN (Internship Tasks)](https://github.com/Nameera046)** | Repository containing modular tasks & network/web challenges completed during internship. | `HTML` `CSS` `JavaScript` | 📁 Tasks Repo |
-| 🏆 **[Internship Final Project 1](https://github.com/Nameera046)** | Final capstone web application developed and submitted at the end of the Prodigy Infotech internship. | `React.js` `JavaScript` `CSS` | 🏆 Final Project |
-| 🏅 **[SkillRack Solutions](https://github.com/Nameera046/SKILLRACK)** | Collection of problem-solving programs in C and Java (SkillRack Medal Topper). | `C` `Java` `DSA` | 📁 Repository |
+| 💼 **[Elevated LAN](https://github.com/Nameera046/Elevated-LAN)** | Repository containing modular network & web tasks completed during the internship. | `HTML` `CSS` `JavaScript` | 📁 Tasks Repo |
+| 🏆 **[Internship Final Project 1](https://github.com/Nameera046/INTERNSHIP-PROJECTS)** | Final capstone project developed and submitted for the Prodigy Infotech internship. | `React.js` `JavaScript` `CSS` | 🏆 Final Project |
+| 🏅 **[SkillRack Solutions](https://github.com/Nameera046/SKILLRACK)** | Solution repository for competitive coding and problem-solving programs in C and Java. | `C` `Java` `DSA` | 📁 Repository |
 
 ---
 
 ### 📊 GitHub Statistics
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nameera046&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
+
 
 ---
 
