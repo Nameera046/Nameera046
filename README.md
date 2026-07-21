@@ -13,6 +13,7 @@
 
 - 👩‍🎓 **Education:** Information Technology Student 📖
 - 🛡️ **Specialization & Interests:** Web Security, JWT Authentication, and Secure Full Stack Development
+- 🏆 **Hackathons:** Active Participant & Developer in Innovation Challenges
 - 🔭 **Currently Working On:** Full Stack Spring Boot Projects & Security Tools
 - 🌱 **Currently Learning:** **Docker**, **Kubernetes**, **DevOps**, and **Cybersecurity Protocols** ☁️
 - 👯 **Looking to Collaborate On:** Innovative Full Stack & Security Projects
@@ -51,17 +52,34 @@
 
 ---
 
-### 📌 Featured Repositories & Internships
+### 🚀 Projects
 
-| Project / Repository | Description | Tech Stack | Status |
+| Project | Description | Tech Stack | Repository Link |
 | :--- | :--- | :--- | :--- |
-| 🎓 **[Alumni Portal](https://github.com/Nameera046/Alumni-Portal)** | Live portal connecting students and alumni for networking, career updates, and mentorship. | `Spring Boot` `React.js` `MySQL` | 🟢 **LIVE** |
-| 🔐 **[JWT Security Tool](https://github.com/Nameera046/JWT-Security-Tool)** | Security utility implementing JSON Web Tokens (JWT) for secure user authentication & authorization. | `Java` `Spring Security` `JWT` | 🛠️ Completed |
-| 📝 **[Meeting Flow](https://github.com/Nameera046/Meeting-Flow)** | Smart meeting management platform to generate minutes, track action items, and streamline workflows. | `React.js` `JavaScript` `Tailwind` | 🛠️ Completed |
-| 🚘 **[Online Vehicle Management](https://github.com/Nameera046/ONLINE-VEHICLE-MANAGEMENT)** | College project to digitize vehicle rentals online, eliminating manual processes. | `Spring Boot` `Java` `React.js` | 🛠️ Completed |
-| 💼 **[Elevated LAN](https://github.com/Nameera046/Elevated-LAN)** | Repository containing modular network & web tasks completed during the internship. | `HTML` `CSS` `JavaScript` | 📁 Tasks Repo |
-| 🏆 **[Internship Final Project 1](https://github.com/Nameera046/INTERNSHIP-PROJECTS)** | Final capstone project developed and submitted for the Prodigy Infotech internship. | `React.js` `JavaScript` `CSS` | 🏆 Final Project |
-| 🏅 **[SkillRack Solutions](https://github.com/Nameera046/SKILLRACK)** | Solution repository for competitive coding and problem-solving programs in C and Java. | `C` `Java` `DSA` | 📁 Repository |
+| 🎓 **Alumni Portal** | Live portal connecting students and alumni for networking & career mentorship. | `Spring Boot` `React.js` `MySQL` | 🔗 [View Code](https://github.com/Nameera046/Alumni_Project1) |
+| 🤖 **AlumniConnect (with AI Chatbot)** | Advanced alumni engagement platform featuring an integrated AI Chatbot for instant query resolution. | `React.js` `Spring Boot` `AI Chatbot` | 🔗 [View Code](https://github.com/Nameera046/AlumniConnect) |
+| 🔐 **JWT Security Tool** | Security lab utility implementing JSON Web Tokens (JWT) for secure authentication & authorization. | `Java` `Spring Security` `JWT` | 🔗 [View Code](https://github.com/Nameera046/JWT-Security-Lab) |
+| 📝 **MeetingFlow** | Smart meeting management tool to document notes, track action items, and automate minutes. | `React.js` `JavaScript` `Tailwind` | 🔗 [View Code](https://github.com/Nameera046/Meeting-Flow) |
+| 🚘 **Online Vehicle Management** | Web platform designed to digitize vehicle rentals and eliminate manual paperwork. | `Spring Boot` `Java` `React.js` | 🔗 [View Code](https://github.com/Nameera046/ONLINE-VEHICLE-MANAGEMENT) |
+| 🏅 **SkillRack Solutions** | Optimized competitive programming & problem-solving solutions in C and Java. | `C` `Java` `DSA` | 🔗 [View Code](https://github.com/Nameera046/SKILLRACK) |
+
+---
+
+### 🏆 Hackathons & Competitions
+
+| Project Name | Description | Event / Focus | Repository Link |
+| :--- | :--- | :--- | :--- |
+| 🏥 **Queue Cure 26** | Web application designed to optimize patient queuing and hospital waiting times efficiently. | Healthcare Tech | 🔗 [View Code](https://github.com/Nameera046/Queue-Cure-26) |
+| ⛏️ **CONFLUENCE 2.0** | Hybrid Dewatering System designed for sustainability and water management in mining areas. | Mining & Eco-Tech | 🔗 [View Code](https://github.com/Nameera046/CONFLUENCE-2.0) |
+
+---
+
+### 💼 Internships
+
+| Organization | Description / Deliverables | Tech Stack | Repository Link |
+| :--- | :--- | :--- | :--- |
+| 💼 **Elevate Labs** | Final Capstone Project & hands-on web development modules completed during internship. | `React.js` `JavaScript` `CSS` | 🔗 [View Code](https://github.com/Nameera046/Elevates_Lab_Final_Project1) |
+| 💼 **Prodigy InfoTech** | Web development projects & task modules built during 1-month internship. | `HTML5` `CSS3` `JavaScript` | 🔗 [View Code](https://github.com/Nameera046/Prodigy_Internship) |
 
 ---
 
@@ -70,7 +88,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nameera046&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
-
 
 ---
 
