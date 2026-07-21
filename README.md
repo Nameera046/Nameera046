@@ -57,22 +57,14 @@
 | 🏅 **[SkillRack Solutions](https://github.com/Nameera046/SKILLRACK)** | Repository containing C and Java solutions created during problem-solving practice (SkillRack Medal Topper). | `C` `Java` `DSA` |
 | 💼 **[Prodigy Infotech Internship](https://github.com/Nameera046/INTERNSHIP-PROJECTS)** | Completed 1-month web development internship building interactive front-end web apps. | `HTML` `CSS` `JavaScript` |
 
----
 
-### 📊 GitHub Statistics
-
----
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nameera046&show_icons=true&theme=tokyonight&hide_border=true" alt="Hajar Nameera's GitHub Stats" width="450" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameera046&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nameera046&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hajar Nameera's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameera046&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nameera046&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
